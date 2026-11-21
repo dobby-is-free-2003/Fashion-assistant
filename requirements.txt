@@ -1,0 +1,16 @@
+google-genai>=1.0.0
+pydantic>=2.6
+pillow>=10.1
+rembg[cpu]>=2.0.57
+onnxruntime>=1.17
+qdrant-client>=1.9
+streamlit>=1.35
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+python-dotenv>=1.0
+numpy>=1.26
+matplotlib>=3.8
+cryptography>=42
+pytest>=8.0
+ruff>=0.5

@@ -1,0 +1,4 @@
+# Optional features. The app runs without these and tells you what is disabled.
+google-adk>=1.0.0      # conversational stylist agent tab
+mediapipe>=0.10        # jewellery overlay on a photo
+gradio_client>=1.0     # Hugging Face Space try-on provider
